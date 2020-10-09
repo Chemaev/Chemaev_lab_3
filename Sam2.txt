@@ -1,0 +1,8 @@
+echo off
+cd Chemaev
+echo > 11021997.txt
+cd Alex
+cd Sergeevich
+echo > 1.txt
+pause
+

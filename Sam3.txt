@@ -1,0 +1,4 @@
+echo off
+del Chemaev /S /Q /F
+pause
+

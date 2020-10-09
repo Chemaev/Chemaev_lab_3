@@ -1,0 +1,10 @@
+echo off
+rem Something to comment
+md Chemaev
+rem go to into new catalog
+cd Chemaev
+md Alex
+cd Alex
+md Sergeevich
+rem this need for pause of programm
+pause
