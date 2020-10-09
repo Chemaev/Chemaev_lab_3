@@ -8,3 +8,4 @@ cd Alex
 md Sergeevich
 rem this need for pause of programm
 pause
+dsddsdsd
