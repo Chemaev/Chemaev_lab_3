@@ -1,0 +1,9 @@
+echo off
+cd Chemaev
+cd Alex
+rd Sergeevich
+cd ..
+rd Alex
+cd ..
+rd Chemaev
+pause
