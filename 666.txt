@@ -1,0 +1,31 @@
+echo off
+md Chemaev
+cd Chemaev
+md Alex
+cd Alex
+md Sergeevich
+cd ..
+cd ..
+pause
+
+cd Chemaev
+echo > 11021997.txt
+cd Alex
+cd Sergeevich
+echo > 1.txt
+cd ..
+cd ..
+cd ..
+pause
+
+del Chemaev /S /Q /F
+pause
+
+cd Chemaev
+cd Alex
+rd Sergeevich
+cd ..
+rd Alex
+cd ..
+rd Chemaev
+pause
